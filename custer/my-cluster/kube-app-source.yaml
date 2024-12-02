@@ -8,4 +8,4 @@ spec:
   interval: 30s
   ref:
     branch: main
-  url: https://github.com/sadnervanvugt/kube-app
+  url: https://github.com/sreenubk/kube-app-test
