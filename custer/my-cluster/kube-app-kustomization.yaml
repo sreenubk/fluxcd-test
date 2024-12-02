@@ -5,7 +5,7 @@ metadata:
   name: kube-app-test
   namespace: flux-system
 spec:
-  interval: 30s
+  interval: 3m20s
   path: ./
   prune: true
   sourceRef:
