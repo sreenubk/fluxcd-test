@@ -5,7 +5,7 @@ metadata:
   name: kube-app
   namespace: flux-system
 spec:
-  interval: 20s
+  interval: 30s
   path: ./
   prune: true
   sourceRef:
