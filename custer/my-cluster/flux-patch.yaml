@@ -7,5 +7,5 @@
       spec:
         minReplicas: 4
     target: 
-      name: kube-app
+      name: kube-app-sinu
       kind: HorizontalPodAutoscaler
