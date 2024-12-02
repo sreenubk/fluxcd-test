@@ -3,7 +3,7 @@
       apiVersion: autoscaling/v2beta2
       kind: HorizontalPodAutoscaler
       metadata:
-        name: kube-app
+        name: kube-app-sinu
       spec:
         minReplicas: 4
     target: 
