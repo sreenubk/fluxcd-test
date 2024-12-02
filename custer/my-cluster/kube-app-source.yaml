@@ -5,7 +5,7 @@ metadata:
   name: kube-app
   namespace: flux-system
 spec:
-  interval: 30s
+  interval: 20s
   ref:
     branch: main
   url: https://github.com/sadnervanvugt/kube-app
